@@ -26,3 +26,5 @@ If the input textbox is empty, display an `Alert`:
 
 You can use the code from lab 1 to see how to make an Alert box and show it.
 
+Note that you'll also need to do the JavaFX steps from Lab 1 to create an appropriate run configuration and to add the User Library. 
+
